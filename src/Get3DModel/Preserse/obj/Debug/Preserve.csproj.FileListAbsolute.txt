@@ -7,3 +7,12 @@ C:\WorkSpace\src\Get3DModel\Preserse\bin\Debug\ParsingInputData.pdb
 C:\WorkSpace\src\Get3DModel\Preserse\obj\Debug\Preserve.csprojResolveAssemblyReference.cache
 C:\WorkSpace\src\Get3DModel\Preserse\obj\Debug\Preserse.dll
 C:\WorkSpace\src\Get3DModel\Preserse\obj\Debug\Preserse.pdb
+C:\Users\akulikov\Desktop\rework\unn_grouponce\src\Get3DModel\Preserse\bin\Debug\Preserse.dll
+C:\Users\akulikov\Desktop\rework\unn_grouponce\src\Get3DModel\Preserse\bin\Debug\Preserse.pdb
+C:\Users\akulikov\Desktop\rework\unn_grouponce\src\Get3DModel\Preserse\bin\Debug\Data.dll
+C:\Users\akulikov\Desktop\rework\unn_grouponce\src\Get3DModel\Preserse\bin\Debug\ParsingInputData.dll
+C:\Users\akulikov\Desktop\rework\unn_grouponce\src\Get3DModel\Preserse\bin\Debug\Data.pdb
+C:\Users\akulikov\Desktop\rework\unn_grouponce\src\Get3DModel\Preserse\bin\Debug\ParsingInputData.pdb
+C:\Users\akulikov\Desktop\rework\unn_grouponce\src\Get3DModel\Preserse\obj\Debug\Preserve.csprojResolveAssemblyReference.cache
+C:\Users\akulikov\Desktop\rework\unn_grouponce\src\Get3DModel\Preserse\obj\Debug\Preserse.dll
+C:\Users\akulikov\Desktop\rework\unn_grouponce\src\Get3DModel\Preserse\obj\Debug\Preserse.pdb

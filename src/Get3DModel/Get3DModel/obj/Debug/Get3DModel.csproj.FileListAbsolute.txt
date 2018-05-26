@@ -15,3 +15,17 @@ C:\WorkSpace\src\Get3DModel\Get3DModel\bin\Debug\Preserse.pdb
 C:\WorkSpace\src\Get3DModel\Get3DModel\obj\Debug\Get3DModel.csprojResolveAssemblyReference.cache
 C:\WorkSpace\src\Get3DModel\Get3DModel\obj\Debug\Get3DModel.exe
 C:\WorkSpace\src\Get3DModel\Get3DModel\obj\Debug\Get3DModel.pdb
+C:\Users\akulikov\Desktop\rework\unn_grouponce\src\Get3DModel\Get3DModel\bin\Debug\Get3DModel.exe.config
+C:\Users\akulikov\Desktop\rework\unn_grouponce\src\Get3DModel\Get3DModel\obj\Debug\Get3DModel.exe
+C:\Users\akulikov\Desktop\rework\unn_grouponce\src\Get3DModel\Get3DModel\obj\Debug\Get3DModel.pdb
+C:\Users\akulikov\Desktop\rework\unn_grouponce\src\Get3DModel\Get3DModel\bin\Debug\Get3DModel.exe
+C:\Users\akulikov\Desktop\rework\unn_grouponce\src\Get3DModel\Get3DModel\bin\Debug\Get3DModel.pdb
+C:\Users\akulikov\Desktop\rework\unn_grouponce\src\Get3DModel\Get3DModel\bin\Debug\CalculatedBlock.dll
+C:\Users\akulikov\Desktop\rework\unn_grouponce\src\Get3DModel\Get3DModel\bin\Debug\Data.dll
+C:\Users\akulikov\Desktop\rework\unn_grouponce\src\Get3DModel\Get3DModel\bin\Debug\ParsingInputData.dll
+C:\Users\akulikov\Desktop\rework\unn_grouponce\src\Get3DModel\Get3DModel\bin\Debug\Preserse.dll
+C:\Users\akulikov\Desktop\rework\unn_grouponce\src\Get3DModel\Get3DModel\bin\Debug\CalculatedBlock.pdb
+C:\Users\akulikov\Desktop\rework\unn_grouponce\src\Get3DModel\Get3DModel\bin\Debug\Data.pdb
+C:\Users\akulikov\Desktop\rework\unn_grouponce\src\Get3DModel\Get3DModel\bin\Debug\ParsingInputData.pdb
+C:\Users\akulikov\Desktop\rework\unn_grouponce\src\Get3DModel\Get3DModel\bin\Debug\Preserse.pdb
+C:\Users\akulikov\Desktop\rework\unn_grouponce\src\Get3DModel\Get3DModel\obj\Debug\Get3DModel.csprojResolveAssemblyReference.cache
